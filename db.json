@@ -1,0 +1,59 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "nombre": "Paracetamol"
+        },
+        {
+            "id": 2,
+            "nombre": "Ibuprofeno"
+        },
+        {
+            "id": 3,
+            "nombre": "Omeprazol"
+        },
+        {
+            "id": 4,
+            "nombre": "Amoxicilina"
+        },
+        {
+            "id": 5,
+            "nombre": "Loratadina"
+        },
+        {
+            "id": 6,
+            "nombre": "Atorvastatina"
+        },
+        {
+            "id": 7,
+            "nombre": "Metformina"
+        },
+        {
+            "id": 8,
+            "nombre": "Diazepam"
+        },
+        {
+            "id": 9,
+            "nombre": "Fluoxetina"
+        },
+        {
+            "id": 10,
+            "nombre": "Losartán"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
